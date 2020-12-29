@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleGPS</string>
+    <string name="location_drop_point">Location Drop Point</string>
+    <string name="unknown_information">Unknown Longitude</string>
+    <string name="location_info">Location Info</string>
+    <string name="get_location">Location Visualize</string>
+    <string name="unknown_latitude">Unknown Latitude</string>
+</resources>
